@@ -1,4 +1,4 @@
-# Exercise 00: Hello 1337
+# Exercise 00: CNOS
 
 ## 📝 Description
 In this exercise, I implemented a basic C program to display a message on the standard output. 
@@ -11,8 +11,8 @@ Following the **1337/42 standards**, I avoided using the `printf` function and i
 
 ## 💻 How to run
 1. Compile the file:
-   `cc hello.c -o hello`
+   `cc hello.c -o app`
 2. Run the program:
-   `./hello`
+   `./app`
 
 
