@@ -10,7 +10,8 @@ The goal was to display an integer value using only the `write` system call.
 - Implementing the **42 Standard Header**.
 
 ## 🖼️ Proof of Work
-![My Terminal Setup](Ex01/screen_ex01.jpg)
+![My Terminal Setup](screen_ex01.jpg)
 
 ## 💻 Compilation
 `cc my_age.c -o app && ./app`
+`
