@@ -6,7 +6,7 @@
 /*   By: younesadnane <younesadnane1337@gmail.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/16 19:18:36 by younesadnane      #+#    #+#             */
-/*   Updated: 2026/04/16 19:21:13 by younesadnane     ###   ########.fr       */
+/*   Updated: 2026/04/16 19:46:17 by younesadnane     ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,9 +25,6 @@ int	main(void)
 
 
 	ft_putchar((age / 10) + '0');
-
-	ft_putchar((age % 10) + '0');
-
 	ft_putchar('\n');
 
 	return (0);
