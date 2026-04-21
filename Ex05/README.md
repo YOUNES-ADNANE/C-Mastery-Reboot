@@ -15,4 +15,3 @@ The goal was to reinforce the use of the **`read`** system call and manual **ASC
 
 ## 💻 Compilation & Usage
 `cc even_odd.c -o app && ./app`
-
